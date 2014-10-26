@@ -3,16 +3,17 @@
 		<h3 class="fancy-title"><?php _e('More Albums From This Genres:','musicplay'); ?>&nbsp;<?php echo get_the_term_list( get_the_id() , 'genres', '', ', ', '' ); ?></h3>
 <?php
 		
-$terms = get_the_terms( get_the_id(), 'genres' );
-if ( $terms && ! is_wp_error( $terms ) ) {
+		$terms = get_the_terms( get_the_id(), 'genres' );
+		if ( $terms && ! is_wp_error( $terms ) ) {
 
-	$terms_cat = array();
+			$terms_cat = array();
 
-	foreach ( $terms as $term ) {
-		$terms_cat[] = $term->slug;
-	}
-						
-}
+			foreach ( $terms as $term ) {
+				$terms_cat[] = $term->slug;
+			}
+								
+		}
+		
 		//Columns for Album Thumbs
 		$column_index = 0; $columns = 5;
 		if( $columns == '5' ) { $class = 'col_fifth'; }
