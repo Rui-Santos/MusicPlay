@@ -1,0 +1,213 @@
+.iva-images {
+    overflow: visible;
+}
+
+.iva-images li {
+	background-color:#ffffff;
+	border: 1px solid #dddddd;
+	box-shadow: 0 0 4px #CCCCCC;
+	cursor: move;
+	float: left;
+	height: 80px;
+	margin: 0 15px 15px 0;
+	position: relative;
+	width: 280px;
+}
+
+.audio-item > img {
+    float: left;
+	border:1px solid #DCDCDC;
+}
+
+.gallery-item > img {
+    float: left;
+	border:1px solid #DCDCDC;
+}
+
+.iva-audio-del.delete { }
+.iva-audio-edt.edit { }
+
+.iva-audio-act {
+    color: #198CAF;
+    font-size: 11px;
+	padding: 3px 8px;
+	float:right;
+	background-color: #f5f5f5;
+	border-top:1px solid #dddddd;
+	text-align: right;
+	margin-bottom:1px;
+	width: 182px;
+}
+
+.iva-audio-title {
+    font-size: 11px;
+    height:38px;
+    overflow: hidden;
+    padding: 18px 10px 0 10px;
+    white-space: nowrap;
+}
+
+.iva-audio-act a {
+    color: #198CAF;
+}
+
+.iva-audio-act a:hover {
+    color: #FF0000;
+}
+
+.gallery-item {
+    width: 150px !important;
+    height: 177px !important;
+}
+
+.iva-gallery-act {
+    color: #198CAF;
+    font-size: 11px;
+	float: right;
+	padding: 3px 8px;
+	background-color: #f6f6f6;
+	border-top:1px solid #DCDCDC;
+	text-align: right;
+	width: 134px;
+}
+
+.iva-gallery-act a {
+    color: #21759B;
+}
+
+.iva-gallery-act a:hover {
+    color: #D54E21;
+}
+
+
+
+.audio-item2 {
+	position: relative;
+	margin: 10px 0 10px 0;
+	padding:10px;
+	background-color:#f7f7f7;
+	border:1px solid #ffffff;
+	-webkit-border-radius:3px 3px 3px 3px;
+	-moz-border-radius:3px 3px 3px 3px;
+	-o-border-radius:3px 3px 3px 3px;
+	border-radius:3px 3px 3px 3px;
+	-webkit-box-shadow: 0 0 1px 2px rgba(0,0,0,0.15);
+	-moz-box-shadow: 0 0 1px 2px rgba(0,0,0,0.15);
+	box-shadow: 0 0 1px 2px rgba(0,0,0,0.15);
+}
+
+
+
+.filelist {
+	width: 60%;
+}
+.filelist .file {
+	padding: 5px;
+	background: #ececec;
+	border: solid 1px #ccc;
+	margin-bottom: 4px;
+}
+.filelist .fileprogress {
+	width: 0%;
+	background: #B7C53D;
+	height: 5px;
+}
+.plupload-thumbs {
+ 
+}
+.plupload-thumbs .thumb {
+	width: 50px;
+	padding-right: 5px;
+	float: left;
+}
+.plupload-thumbs .thumb img {
+	width: 50px;
+	height: 50px;
+}
+.ui-sortable  .thumb img {
+    cursor: pointer;
+}
+
+
+
+div.rwmb-image-uploading-bar {
+	bottom: 0;
+	height: 0;
+	position: absolute;
+	width: 100%;
+}
+div.rwmb-image-uploading-status {
+	position: absolute;
+}
+li.rwmb-image-error {
+	background: none repeat scroll 0 0 rgb(144, 56, 56);
+	border: 3px solid rgb(204, 0, 0);
+}
+.rwmb-image-uploading-status .rwmb-loader {
+	height: 64px;
+	left: 43px;
+	position: relative;
+	top: 43px;
+	width: 64px;
+}
+.rwmb-images {
+	overflow: hidden;
+}
+.rwmb-images li {
+	border: 2px solid rgb(204, 204, 204);
+	cursor: move;
+	float: left;
+	height: 150px;
+	margin: 0 10px 10px 0;
+	position: relative;
+	text-align: center;
+	width: 150px;
+	transition: width 0.25s ease 0s, opacity 0.25s ease 0s;
+}
+.rwmb-images img {
+	height: 150px;
+	width: 150px;
+}
+.rwmb-image-bar {
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.5);
+	color: rgb(255, 255, 255);
+	display: none;
+	font-weight: bold;
+	padding: 5px;
+	position: absolute;
+	right: 0;
+	text-align: center;
+	top: 0;
+	vertical-align: middle;
+}
+li:hover .rwmb-image-bar {
+	display: block;
+}
+.rwmb-image-bar a {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: inherit;
+}
+.rwmb-image-bar a.rwmb-delete-file {
+    font-size: 23px;
+    font-weight: lighter;
+    width: 18px;
+}
+.rwmb-images li.removed {
+    margin: 0;
+    opacity: 0;
+    width: 0;
+}
+.rwmb-images li.removed:after {
+    background-color: rgb(255, 0, 0);
+    bottom: 0;
+    content: " ";
+    left: 0;
+    opacity: 0.4;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: 2;
+}

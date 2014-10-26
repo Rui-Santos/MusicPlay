@@ -1,0 +1,3028 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MusicPlay\n"
+"POT-Creation-Date: 2014-10-25 20:10+0530\n"
+"PO-Revision-Date: 2014-10-25 20:10+0530\n"
+"Last-Translator: info@aivahthemes.com <info@aivahthemes.com>\n"
+"Language-Team: AivahThemes <info@aivahthemes.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;_x\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../archive.php:28 ../framework/shortcode/blog.php:34
+#: ../framework/widgets/music_album.php:71
+#: ../framework/widgets/music_artist.php:77
+#: ../framework/widgets/music_gallery_post.php:67
+#: ../framework/widgets/music_gallery_post.php:80 ../includes/standard.php:8
+#: ../loop.php:20 ../musicband/albums/audio-genres.php:63
+#: ../musicband/albums/audio-label.php:66
+#: ../musicband/albums/taxonomy-genres.php:61
+#: ../musicband/albums/taxonomy-label.php:61
+#: ../musicband/artists/artist-related.php:70
+#: ../musicband/artists/artists-albums.php:68
+#: ../musicband/artists/taxonomy-artist_cat.php:64
+#: ../musicband/events/taxonomy-events_cat.php:55
+#: ../musicband/events/taxonomy-events_cat.php:73
+#: ../musicband/gallery/taxonomy-gallery_type.php:61
+#: ../musicband/template_albums.php:91 ../musicband/template_albums3col.php:88
+#: ../musicband/template_artists.php:87
+#: ../musicband/template_artists3col.php:89
+#: ../musicband/template_events.php:69 ../musicband/template_events.php:87
+#: ../musicband/template_gallery.php:82
+#: ../musicband/template_gallery3col.php:83
+#: ../musicband/template_pastevents.php:70
+#: ../musicband/template_pastevents.php:88
+#: ../musicband/template_upcomingevents.php:89
+#: ../musicband/template_video.php:99 ../musicband/template_video3col.php:99
+#: ../musicband/video/taxonomy-video_type.php:75 ../tag.php:30
+#: ../template_blog.php:53
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: ../archive.php:60 ../loop.php:53 ../musicband/albums/taxonomy-genres.php:88
+#: ../musicband/albums/taxonomy-label.php:89
+#: ../musicband/artists/taxonomy-artist_cat.php:89
+#: ../musicband/events/taxonomy-events_cat.php:100
+#: ../musicband/gallery/taxonomy-gallery_type.php:90
+#: ../musicband/template_albums.php:115
+#: ../musicband/template_albums3col.php:112
+#: ../musicband/template_artists.php:111
+#: ../musicband/template_artists3col.php:113
+#: ../musicband/template_djmix.php:150 ../musicband/template_events.php:114
+#: ../musicband/template_gallery.php:108
+#: ../musicband/template_gallery3col.php:109
+#: ../musicband/template_pastevents.php:114
+#: ../musicband/template_upcomingevents.php:115
+#: ../musicband/template_video.php:122 ../musicband/template_video3col.php:121
+#: ../musicband/video/taxonomy-video_type.php:102 ../search.php:43
+#: ../tag.php:63 ../template_blog.php:88
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: ../comments.php:22
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:23
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:24
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:33
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:41
+msgid "Submit"
+msgstr ""
+
+#: ../comments.php:42
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../custom-search.php:19 ../framework/custom-meta/shortcode-meta.php:2670
+#: ../musicband/albums/album.php:99 ../musicband/artists/artist-meta.php:42
+#: ../musicband/artists/artist.php:77
+msgid "Genres"
+msgstr ""
+
+#: ../custom-search.php:55 ../framework/custom-meta/shortcode-meta.php:2661
+msgid "Labels"
+msgstr ""
+
+#: ../custom-search.php:128
+msgid "Search"
+msgstr ""
+
+#: ../framework/admin/admin-interface.php:88
+#, php-format
+msgid "Howdy, %1$s"
+msgstr ""
+
+#: ../framework/admin/admin-interface.php:1293
+msgid "Upload"
+msgstr ""
+
+#: ../framework/admin/admin-interface.php:1322
+msgid "View File"
+msgstr ""
+
+#: ../framework/admin/admin-interface.php:1397
+msgid "Options Framework Internal Container"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:338
+#: ../framework/custom-meta/shortcode-meta.php:2555
+msgid "Blog"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:352
+#, php-format
+msgid "Albums Genre for: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:360
+#, php-format
+msgid "Albums Label for: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:368
+#, php-format
+msgid "Events Archive for: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:376
+#, php-format
+msgid "Artist Archive for: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:384
+#, php-format
+msgid "Video Archive for: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:392
+#, php-format
+msgid "Gallery Archive for: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:403
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:405
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:405
+msgid "F Y"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:407
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:407
+msgid "Y"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:415
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:421
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:427
+msgid "Search Results : "
+msgstr ""
+
+#: ../framework/common/atp_generator.php:433
+#, php-format
+msgid "Archives Author: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:518
+#: ../framework/shortcode/carousel_blog.php:86
+msgid "0 Comment"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:518
+#: ../framework/shortcode/carousel_blog.php:86
+msgid "1 Comment"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:518
+#: ../framework/shortcode/carousel_blog.php:86
+msgid "% Comments"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:546
+msgid "Written by "
+msgstr ""
+
+#: ../framework/common/atp_generator.php:583
+msgid "You might also like"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:679
+msgid "Pingback:"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:679
+#: ../framework/common/atp_generator.php:710
+#: ../musicband/albums/single-albums.php:288
+#: ../musicband/artists/single-artists.php:126
+#: ../musicband/djmix/single-djmix.php:118
+#: ../musicband/events/single-events.php:157
+#: ../musicband/events/taxonomy-events_cat.php:106
+#: ../musicband/gallery/single-gallery.php:141
+#: ../musicband/template_albums.php:121
+#: ../musicband/template_albums3col.php:118
+#: ../musicband/template_artists.php:117
+#: ../musicband/template_artists3col.php:119
+#: ../musicband/template_djmix.php:158 ../musicband/template_events.php:120
+#: ../musicband/template_gallery.php:114
+#: ../musicband/template_gallery3col.php:115
+#: ../musicband/template_pastevents.php:120
+#: ../musicband/template_upcomingevents.php:121
+#: ../musicband/template_video.php:128 ../musicband/template_video3col.php:127
+#: ../musicband/video/single-video.php:79 ../page.php:20 ../single.php:59
+#: ../template_blog.php:96 ../template_stretched.php:14
+#: ../template_subpage.php:35
+msgid "Edit"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:694
+msgid "Post author"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:700
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:706
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../framework/common/atp_generator.php:712
+msgid "Reply <span>&darr;</span>"
+msgstr ""
+
+#: ../framework/common/class_twitter.php:19
+msgid " right now"
+msgstr ""
+
+#: ../framework/common/class_twitter.php:21
+msgid " seconds ago"
+msgstr ""
+
+#: ../framework/common/class_twitter.php:23
+msgid " about 1 minute ago"
+msgstr ""
+
+#: ../framework/common/class_twitter.php:25
+msgid " minutes ago"
+msgstr ""
+
+#: ../framework/common/class_twitter.php:27
+msgid " about 1 hour ago"
+msgstr ""
+
+#: ../framework/common/class_twitter.php:29
+msgid " hours ago"
+msgstr ""
+
+#: ../framework/common/class_twitter.php:31
+msgid " yesterday"
+msgstr ""
+
+#: ../framework/common/class_twitter.php:33
+msgid " days ago"
+msgstr ""
+
+#: ../framework/common/class_twitter.php:35
+msgid " over a year ago"
+msgstr ""
+
+#: ../framework/custom-meta/meta-generator.php:469
+msgid "Choose Image"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:22
+msgid "Page Slider"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:31
+msgid "FlexSlider Category"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:40
+msgid "Elastic Category"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:49
+msgid "NivoSlider Category"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:59
+msgid "Video Slider"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:67
+msgid "Static Image"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:75
+msgid "Image Link"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:84
+msgid " Title"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:93
+msgid " Open link in a new window/tab"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:102
+msgid "Custom Slider"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:113
+#: ../framework/custom-meta/post-meta.php:125
+#: ../musicband/albums/allbum-meta.php:135
+#: ../musicband/artists/artist-meta.php:79
+#: ../musicband/events/events-meta.php:105
+#: ../musicband/gallery/gallery-meta.php:44
+#: ../musicband/video/video-meta.php:73
+msgid "Subheader Options"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:128
+#: ../framework/custom-meta/post-meta.php:141
+#: ../musicband/albums/allbum-meta.php:150
+#: ../musicband/artists/artist-meta.php:94
+#: ../musicband/events/events-meta.php:120
+#: ../musicband/gallery/gallery-meta.php:59
+#: ../musicband/video/video-meta.php:87
+msgid "Teaser Text"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:139
+#: ../musicband/albums/allbum-meta.php:161
+#: ../musicband/artists/artist-meta.php:105
+#: ../musicband/events/events-meta.php:131
+#: ../musicband/gallery/gallery-meta.php:70
+#: ../musicband/video/video-meta.php:98
+msgid "Page Background"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:148
+#: ../musicband/albums/allbum-meta.php:171
+#: ../musicband/artists/artist-meta.php:114
+#: ../musicband/gallery/gallery-meta.php:80
+#: ../musicband/video/video-meta.php:109
+msgid "Subheader Background"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:164
+#: ../framework/custom-meta/post-meta.php:201
+#: ../musicband/albums/allbum-meta.php:188
+#: ../musicband/artists/artist-meta.php:131
+#: ../musicband/gallery/gallery-meta.php:97
+#: ../musicband/video/video-meta.php:126
+msgid "Subheader Text Color"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:174
+#: ../framework/custom-meta/post-meta.php:211
+#: ../musicband/albums/allbum-meta.php:198
+#: ../musicband/artists/artist-meta.php:141
+#: ../musicband/gallery/gallery-meta.php:107
+#: ../musicband/video/video-meta.php:136
+msgid "Subheader Padding"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:184
+#: ../framework/custom-meta/post-meta.php:221
+#: ../musicband/albums/allbum-meta.php:207
+#: ../musicband/artists/artist-meta.php:151
+#: ../musicband/events/events-meta.php:141
+#: ../musicband/video/video-meta.php:63
+msgid "Custom Sidebar"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:195
+msgid "Sidebar Option"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:208
+#: ../framework/custom-meta/post-meta.php:245
+#: ../musicband/albums/allbum-meta.php:232
+#: ../musicband/artists/artist-meta.php:175
+#: ../musicband/events/events-meta.php:165
+#: ../musicband/gallery/gallery-meta.php:130
+#: ../musicband/video/video-meta.php:159
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:18
+msgid "The Quote"
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:28
+msgid "The URL"
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:38
+msgid "The Status"
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:48
+msgid "MP3 File URL"
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:56
+msgid "OGA File URL"
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:64
+msgid "Audio Poster Image"
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:72
+msgid "Poster Image Height"
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:82
+msgid "Video Height"
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:90
+msgid "M4V File URL"
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:98
+msgid "OGV File URL"
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:106
+msgid "Poster Image"
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:114
+msgid "Embeded Code"
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:152
+msgid "Google Map Shortcode"
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:163
+msgid "Page Background Image"
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:173
+msgid "Subheader"
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:184
+msgid "Subheader Image"
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:232
+#: ../musicband/albums/allbum-meta.php:219
+#: ../musicband/artists/artist-meta.php:162
+#: ../musicband/events/events-meta.php:152
+#: ../musicband/gallery/gallery-meta.php:117
+#: ../musicband/video/video-meta.php:146
+msgid "Layout Option"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-generator.php:197
+msgid "Add More"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:10
+msgid "Columns"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:17
+msgid "Two Column Layout"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:21
+#: ../framework/custom-meta/shortcode-meta.php:318
+#: ../framework/custom-meta/shortcode-meta.php:354
+msgid "One Half"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:28
+#: ../framework/custom-meta/shortcode-meta.php:303
+msgid "One Half Last"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:39
+msgid "Three Column Layout"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:43
+#: ../framework/custom-meta/shortcode-meta.php:50
+#: ../framework/custom-meta/shortcode-meta.php:201
+msgid "One Third"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:57
+#: ../framework/custom-meta/shortcode-meta.php:230
+msgid "One Third Last"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:68
+msgid "Four Column Layout"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:72
+#: ../framework/custom-meta/shortcode-meta.php:79
+#: ../framework/custom-meta/shortcode-meta.php:86
+#: ../framework/custom-meta/shortcode-meta.php:245
+#: ../framework/custom-meta/shortcode-meta.php:289
+#: ../framework/custom-meta/shortcode-meta.php:296
+#: ../framework/custom-meta/shortcode-meta.php:325
+#: ../framework/custom-meta/shortcode-meta.php:347
+msgid "One Fourth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:93
+#: ../framework/custom-meta/shortcode-meta.php:274
+#: ../framework/custom-meta/shortcode-meta.php:332
+#: ../framework/custom-meta/shortcode-meta.php:361
+msgid "One Fourth Last"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:104
+msgid "Five Column Layout"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:108
+#: ../framework/custom-meta/shortcode-meta.php:115
+#: ../framework/custom-meta/shortcode-meta.php:122
+#: ../framework/custom-meta/shortcode-meta.php:129
+#: ../framework/custom-meta/shortcode-meta.php:376
+msgid "One Fifth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:136
+#: ../framework/custom-meta/shortcode-meta.php:405
+msgid "One Fifth Last"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:147
+msgid "Six Column Layout"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:151
+#: ../framework/custom-meta/shortcode-meta.php:158
+#: ../framework/custom-meta/shortcode-meta.php:165
+#: ../framework/custom-meta/shortcode-meta.php:172
+#: ../framework/custom-meta/shortcode-meta.php:179
+msgid "One Sixth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:186
+msgid "One Sixth Last"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:197
+msgid "One Third - Two Third"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:208
+msgid "Two Third Last"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:219
+msgid "Two Third - One Third"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:223
+msgid "Two Third"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:241
+msgid "One Fourth - Three Fourth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:252
+msgid "Three Fourth Last"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:263
+msgid "Three Fourth - One Fourth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:267
+msgid "Three Fourth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:285
+msgid "One Fourth - One Fourth - One Half"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:314
+msgid "One Half - One Fourth - One Fourth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:343
+msgid "One Fourth - One Half - One Fourth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:372
+msgid "One Fifth - Four Fifth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:383
+msgid "Four Fifth Last"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:394
+msgid "Four Fifth - One Fifth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:398
+msgid "Four Fifth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:416
+msgid "Two Fifth - Three Fifth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:420
+msgid "Two Fifth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:427
+msgid "Three Fifth Last"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:438
+msgid "Three Fifth - Two Fifth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:442
+msgid "Three Fifth"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:449
+msgid "Two Fifth Last"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:463
+msgid "Block Quotes"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:467
+#: ../framework/custom-meta/shortcode-meta.php:534
+#: ../framework/custom-meta/shortcode-meta.php:921
+#: ../framework/custom-meta/shortcode-meta.php:2108
+#: ../framework/custom-meta/shortcode-meta.php:2535
+#: ../framework/widgets/testimonials_submit.php:39
+msgid "Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:474
+#: ../framework/custom-meta/shortcode-meta.php:988
+#: ../framework/custom-meta/shortcode-meta.php:1097
+#: ../framework/custom-meta/shortcode-meta.php:1622
+#: ../framework/custom-meta/shortcode-meta.php:1765
+#: ../framework/custom-meta/shortcode-meta.php:2446
+#: ../framework/custom-meta/shortcode-meta.php:2500
+msgid "Align"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:488
+msgid "Cite"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:497
+msgid "Cite Link"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:506
+#: ../framework/custom-meta/shortcode-meta.php:1635
+#: ../framework/custom-meta/shortcode-meta.php:1779
+#: ../framework/custom-meta/shortcode-meta.php:2133
+#: ../framework/custom-meta/shortcode-meta.php:3186
+msgid "Width"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:515
+#: ../framework/custom-meta/shortcode-meta.php:542
+#: ../framework/custom-meta/shortcode-meta.php:592
+#: ../framework/custom-meta/shortcode-meta.php:625
+#: ../framework/custom-meta/shortcode-meta.php:659
+#: ../framework/custom-meta/shortcode-meta.php:716
+#: ../framework/custom-meta/shortcode-meta.php:1002
+#: ../framework/custom-meta/shortcode-meta.php:1189
+#: ../framework/custom-meta/shortcode-meta.php:1302
+#: ../framework/custom-meta/shortcode-meta.php:1380
+#: ../framework/custom-meta/shortcode-meta.php:1428
+#: ../framework/custom-meta/shortcode-meta.php:1546
+#: ../framework/custom-meta/shortcode-meta.php:1595
+#: ../framework/custom-meta/shortcode-meta.php:1651
+#: ../framework/custom-meta/shortcode-meta.php:1680
+#: ../framework/custom-meta/shortcode-meta.php:1795
+#: ../framework/custom-meta/shortcode-meta.php:1845
+#: ../framework/custom-meta/shortcode-meta.php:1874
+#: ../framework/custom-meta/shortcode-meta.php:2116
+#: ../framework/custom-meta/shortcode-meta.php:2249
+#: ../framework/custom-meta/shortcode-meta.php:2337
+#: ../framework/custom-meta/shortcode-meta.php:2393
+#: ../framework/custom-meta/shortcode-meta.php:2474
+#: ../framework/custom-meta/shortcode-meta.php:2542
+msgid "Animations"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:530
+msgid "Custom Animation"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:557
+msgid "Drop Cap 1"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:561
+#: ../framework/custom-meta/shortcode-meta.php:610
+#: ../framework/custom-meta/shortcode-meta.php:643
+msgid "Dropcap Text"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:569
+msgid "Dropcap Colors"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:606
+msgid "Drop Cap 2"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:618
+msgid "Dropcap Background Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:639
+msgid "Drop Cap 3"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:651
+msgid "Dropcap Text Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:673
+msgid "Google Font"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:677
+msgid "Google Font Name"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:678
+msgid "Type the font you want to display."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:685
+msgid "Google Font Size"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:686
+msgid "Type the font size in px."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:693
+msgid "Google Font Style"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:694
+msgid "Type the font style ex:400italic."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:701
+msgid "Font Margin"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:702
+msgid "Type the font margin in px."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:709
+msgid "Content Here"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:710
+msgid "Type the text you wish to display ."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:729
+msgid "Highlight"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:733
+msgid "Highlight BG Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:740
+#: ../framework/custom-meta/shortcode-meta.php:762
+msgid "Highlight Text Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:747
+#: ../framework/custom-meta/shortcode-meta.php:769
+msgid "Highlight Text"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:758
+msgid "Highlight 2"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:780
+msgid "Fancy Ampersand"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:784
+msgid "Ampersand Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:791
+msgid "Ampersand Size"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:804
+msgid "Fancy Heading"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:809
+msgid "Heading Size"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:825
+msgid "Heading Text Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:833
+msgid "Heading Background Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:841
+msgid "Heading Align"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:855
+msgid "Heading Text"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:867
+msgid "List"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:871
+msgid "List Style"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:901
+#: ../framework/custom-meta/shortcode-meta.php:945
+#: ../framework/custom-meta/shortcode-meta.php:1074
+#: ../framework/custom-meta/shortcode-meta.php:1475
+#: ../framework/custom-meta/shortcode-meta.php:1829
+#: ../framework/custom-meta/shortcode-meta.php:3224
+msgid "Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:932
+msgid "Icons"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:937
+#: ../framework/custom-meta/shortcode-meta.php:1029
+msgid "Add FontAwesome Icon Name"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:954
+msgid "Background Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:962
+#: ../framework/custom-meta/shortcode-meta.php:1420
+msgid "Border Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:971
+msgid "Select Icon Size"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1017
+msgid "Button"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1021
+msgid "ID"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1036
+#: ../framework/custom-meta/shortcode-meta.php:1724
+msgid "Class"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1044
+#: ../framework/custom-meta/shortcode-meta.php:1453
+#: ../framework/custom-meta/shortcode-meta.php:1733
+msgid "Link URL"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1051
+#: ../framework/custom-meta/shortcode-meta.php:1460
+msgid "Link Target "
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1066
+#: ../framework/custom-meta/shortcode-meta.php:1757
+msgid "Lightbox"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1111
+#: ../framework/custom-meta/shortcode-meta.php:1445
+msgid "BG Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1118
+msgid "Hover BG Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1125
+msgid "Hover Text Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1132
+#: ../framework/custom-meta/shortcode-meta.php:1357
+#: ../framework/custom-meta/shortcode-meta.php:1412
+#: ../framework/custom-meta/shortcode-meta.php:1538
+msgid "Text Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1139
+#: ../framework/custom-meta/shortcode-meta.php:1498
+msgid "Button Size"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1152
+#: ../framework/custom-meta/shortcode-meta.php:1511
+msgid "Button Style"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1163
+msgid "Full Width"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1171
+msgid "Button Width"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1181
+#: ../framework/custom-meta/shortcode-meta.php:1522
+msgid "Button Text"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1204
+#: ../framework/custom-meta/shortcode-meta.php:1214
+msgid "Divider"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1209
+msgid "Clear Both"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1218
+msgid "Style:"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1231
+msgid "Margin:"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1240
+msgid "Border Color:"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1250
+msgid "Demo Space"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1254
+#: ../framework/custom-meta/shortcode-meta.php:1787
+#: ../framework/custom-meta/shortcode-meta.php:2141
+#: ../framework/custom-meta/shortcode-meta.php:3194
+msgid "Height"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1264
+msgid "Custom Divider"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1268
+#: ../framework/custom-meta/shortcode-meta.php:2439
+msgid "Upload Image"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1283
+msgid "Toggle"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1287
+msgid "Fancy Toggle. Heading"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1295
+msgid "Fancy Toggle Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1316
+msgid "Boxes"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1324
+msgid "Fancy Box"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1328
+#: ../framework/custom-meta/shortcode-meta.php:1613
+#: ../framework/custom-meta/shortcode-meta.php:1707
+#: ../framework/custom-meta/shortcode-meta.php:1821
+#: ../framework/custom-meta/shortcode-meta.php:2460
+#: ../framework/custom-meta/shortcode-meta.php:2528
+#: ../framework/custom-post/slider.php:61
+#: ../framework/custom-post/testimonial.php:62
+#: ../framework/widgets/contactinfo.php:101
+#: ../framework/widgets/music_artist.php:110
+#: ../framework/widgets/music_gallery_photos.php:113
+#: ../framework/widgets/music_gallery_post.php:118
+#: ../framework/widgets/music_video.php:115 ../musicband/albums/album.php:97
+#: ../musicband/artists/artist.php:75 ../musicband/djmix/djmix.php:72
+#: ../musicband/events/events.php:65 ../musicband/gallery/gallery.php:70
+#: ../musicband/video/video.php:68
+msgid "Title"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1336
+#: ../framework/custom-meta/shortcode-meta.php:1397
+msgid "Box Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1343
+msgid "Title Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1350
+msgid "Title BG Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1364
+#: ../framework/custom-meta/shortcode-meta.php:1404
+msgid "Box BG Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1371
+msgid "Corner Ribbon"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1393
+msgid "Framed Box"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1441
+msgid "Teaser Box"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1531
+msgid "Teaser Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1564
+msgid "Message Box"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1568
+msgid "Message Type"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1581
+#: ../framework/custom-meta/shortcode-meta.php:1644
+msgid "Message Text"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1588
+msgid "Close"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1609
+msgid "Note Box"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1664
+msgid "Accordion"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1668
+msgid "Accordion Columns"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1695
+#: ../framework/custom-meta/testimonial-meta.php:13
+msgid "Image"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1699
+msgid "Image URL"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1715
+msgid "Caption"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1742
+msgid "Link Target"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1809
+msgid "Progress Bar"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1813
+msgid "Percentage"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1837
+msgid "BgColor"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1859
+msgid "Progress Circle"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1863
+msgid "Progress Circle Columns"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1889
+msgid "Section"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1893
+msgid "Section BG Image"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1900
+msgid "Section BG Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1907
+msgid "Section Text Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1914
+msgid "Section Padding"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1921
+msgid "Section Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1933
+msgid "Staff Box"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1937
+msgid "Photo"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1945
+#: ../framework/custom-meta/shortcode-meta.php:2354
+#: ../framework/widgets/contactinfo.php:105
+#: ../framework/widgets/testimonials_submit.php:36
+msgid "Name"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1953
+msgid "Role"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1961
+msgid "Sociables"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1971
+msgid "Blogger"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1980
+msgid "Dribbble"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1990
+msgid "Delicious"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:1999
+msgid "Digg"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2008
+msgid "Facebook"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2017
+msgid "Flickr"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2026
+msgid "Forrst"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2035
+msgid "Google"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2044
+msgid "Linkedin"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2053
+msgid "Pinterest"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2062
+msgid "Skype"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2071
+msgid "Stumbleupon"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2080
+msgid "Twitter"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2089
+msgid "Yahoo"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2098
+#: ../framework/custom-meta/shortcode-meta.php:3259
+msgid "Youtube"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2129
+msgid "Google Map"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2149
+#: ../framework/custom-meta/shortcode-meta.php:2362
+#: ../framework/widgets/contactinfo.php:109
+msgid "Address"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2158
+msgid "Latitude"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2165
+msgid "longitude"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2172
+msgid "Zoom"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2180
+msgid "Marker Description"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2188
+msgid "Info Window"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2196
+msgid "Controller"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2204
+msgid "Google map stylers Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2211
+msgid "Gmap Types"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2228
+msgid "Twitter Tweets"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2232
+msgid "Twitter Id"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2241
+#: ../framework/custom-meta/shortcode-meta.php:2275
+msgid "Limit"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2263
+msgid "Flickr Photos"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2267
+msgid "Flickr Id"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2283
+#: ../framework/includes/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2294
+msgid "Display"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2310
+msgid "Tabs"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2314
+msgid "Tabs Columns"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2326
+msgid "Tabs Type  "
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2350
+msgid "Contact Info"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2369
+#: ../framework/widgets/contactinfo.php:113
+msgid "Phone"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2377
+#: ../framework/custom-meta/testimonial-meta.php:34
+#: ../framework/custom-post/testimonial.php:65
+#: ../framework/widgets/contactinfo.php:117
+#: ../framework/widgets/testimonials_submit.php:41
+msgid "Email"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2385
+#: ../framework/custom-meta/testimonial-meta.php:54
+#: ../musicband/artists/artist-meta.php:60
+msgid "Website URL"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2408
+msgid "Testimonial List"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2412
+#: ../framework/custom-meta/shortcode-meta.php:2559
+#: ../framework/custom-meta/shortcode-meta.php:2596
+#: ../framework/custom-meta/shortcode-meta.php:2869
+#: ../framework/custom-meta/shortcode-meta.php:3006
+#: ../framework/custom-meta/shortcode-meta.php:3066
+#: ../framework/custom-meta/shortcode-meta.php:3128
+msgid "Category"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2421
+msgid "Testimonial  Limit"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2435
+msgid "Services"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2467
+msgid "Services Content"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2489
+msgid "Services Icon"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2493
+msgid "Add Font Awesome Icon Name"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2514
+msgid "Icon Bgcolor"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2521
+msgid "icon Color"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2567
+msgid "Blog Posts Limit"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2574
+msgid "Blog Post Meta"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2581
+#: ../framework/custom-meta/shortcode-meta.php:2810
+#: ../framework/custom-meta/shortcode-meta.php:2880
+#: ../framework/custom-meta/shortcode-meta.php:2947
+#: ../framework/custom-meta/shortcode-meta.php:3016
+#: ../framework/custom-meta/shortcode-meta.php:3085
+#: ../framework/custom-meta/shortcode-meta.php:3157
+msgid "Pagination"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2592
+msgid "Carousel - Blog"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2604
+msgid "Blog Items Limit"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2611
+msgid "Carousel Title"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2618
+#: ../framework/custom-meta/shortcode-meta.php:2714
+msgid "Items Per Carousel"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2626
+msgid "Blog Carousel Styles"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2644
+msgid "Carousels"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2648
+msgid "Post Types"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2679
+#: ../framework/custom-meta/shortcode-meta.php:2920
+msgid "Artist Category"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2688
+#: ../musicband/video/video.php:52
+msgid "Video Category"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2698
+msgid "Gallery Category"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2707
+msgid "Total Items Limit"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2727
+#: ../musicband/search_albumartisttracks.php:382
+msgid "Album"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2731
+msgid "Album Select"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2743
+msgid "Column"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2756
+msgid "Albums ID"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2764
+msgid "Album ID"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2772
+msgid "Album Limit"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2780
+msgid "Label Category"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2790
+msgid "Genres Category"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2801
+msgid "Display Order"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2824
+#: ../musicband/events/events.php:6 ../musicband/events/events.php:7
+#: ../musicband/events/events.php:41
+msgid "Events"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2828
+msgid "Events Select"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2841
+#: ../framework/custom-meta/shortcode-meta.php:2908
+#: ../framework/custom-meta/shortcode-meta.php:2977
+#: ../framework/custom-meta/shortcode-meta.php:3045
+#: ../framework/custom-meta/shortcode-meta.php:3115
+msgid "Style"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2853
+msgid "Event ID"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2861
+msgid "Events Limit"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2892
+#: ../musicband/artists/artist.php:10
+msgid "Artist"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2896
+msgid "Artist Select"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2931
+msgid "Artist ID"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2939
+msgid "Artist Limit"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2962
+#: ../musicband/gallery/gallery.php:10
+msgid "Gallery"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2966
+msgid "Gallery Select"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2990
+msgid "Gallery ID"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:2998
+msgid "Gallery Limit"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3029
+#: ../musicband/albums/allbum-meta.php:124 ../musicband/video/video.php:9
+msgid "Video"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3033
+msgid "Video Select"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3057
+msgid "Video ID"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3077
+msgid "Video Limit"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3098
+msgid "Djmix"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3103
+msgid "Djmix Select"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3139
+msgid "Djmix ID"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3148
+msgid "Djmix Limit"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3170
+msgid "SoundCloud"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3175
+msgid "Sound Type"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3176
+msgid "Select the audio type"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3180
+msgid "HTML5"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3181
+msgid "Flash"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3187
+msgid "Use px as units for width"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3195
+msgid "Use px as units for height"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3202
+msgid "Audio ID"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3203
+msgid ""
+"Enter the ID only from the clips URL (e.g. http://api.soundcloud.com/tracks/"
+"<span style=\"color:red\">123456789</span>)"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3210
+msgid "Show Artwork"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3211
+msgid "Check this if you wish to enable Artwork option."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3217
+#: ../framework/custom-meta/shortcode-meta.php:3247
+#: ../framework/custom-meta/shortcode-meta.php:3270
+msgid "Autoplay"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3218
+msgid "Check this if you wish to enable auto play option."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3225
+msgid "Select the color for the playes"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3235
+#: ../musicband/video/video-meta.php:37
+msgid "Vimeo"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3239
+#: ../framework/custom-meta/shortcode-meta.php:3263
+msgid "Clip id"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3282
+#: ../framework/widgets/recentpost.php:39
+msgid "Recent Posts"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3286
+#: ../framework/custom-meta/shortcode-meta.php:3336
+msgid "Number of posts to show"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3287
+#: ../framework/custom-meta/shortcode-meta.php:3337
+msgid "Type the number of posts you wish to display."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3294
+#: ../framework/custom-meta/shortcode-meta.php:3344
+msgid "Description Length"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3295
+#: ../framework/custom-meta/shortcode-meta.php:3345
+msgid "Length of Description to show"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3303
+#: ../framework/custom-post/slider.php:64
+#: ../framework/custom-post/testimonial.php:64
+#: ../musicband/artists/artist.php:76 ../musicband/djmix/djmix.php:75
+#: ../musicband/events/events.php:67 ../musicband/gallery/gallery.php:72
+#: ../musicband/video/video.php:70 ../template_sitemap.php:40
+msgid "Categories"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3304
+msgid "Select the categories to hold the posts"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3312
+msgid "Disaplay Post Thumbnail?"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3313
+#: ../framework/custom-meta/shortcode-meta.php:3353
+msgid "Check this if you wish to display the post thumbnail."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3319
+#: ../framework/widgets/recentpost.php:128
+msgid "Display post date?"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3320
+msgid "Check this if you wish to display the post date."
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3332
+msgid "Popular Posts"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3352
+msgid "Thumbnail"
+msgstr ""
+
+#: ../framework/custom-meta/shortcode-meta.php:3359
+msgid "Extra Information"
+msgstr ""
+
+#: ../framework/custom-meta/slider-meta.php:17
+msgid "The url that the slide post is linked to"
+msgstr ""
+
+#: ../framework/custom-meta/slider-meta.php:31
+msgid "Slider Page Link"
+msgstr ""
+
+#: ../framework/custom-meta/slider-meta.php:40
+msgid "Link Category for Slider"
+msgstr ""
+
+#: ../framework/custom-meta/slider-meta.php:49
+msgid "Slider Post Link"
+msgstr ""
+
+#: ../framework/custom-meta/slider-meta.php:58
+msgid "Slider Link"
+msgstr ""
+
+#: ../framework/custom-meta/slider-meta.php:67
+#: ../framework/custom-meta/testimonial-meta.php:63
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: ../framework/custom-meta/slider-meta.php:77
+msgid "Slider Description"
+msgstr ""
+
+#: ../framework/custom-meta/slider-meta.php:85
+msgid "Slider Description Disable"
+msgstr ""
+
+#: ../framework/custom-meta/testimonial-meta.php:26
+msgid " Photo"
+msgstr ""
+
+#: ../framework/custom-meta/testimonial-meta.php:44
+msgid "Website Name"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:9
+#: ../framework/custom-post/slider.php:10
+msgid "Slider"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:11
+#: ../framework/custom-post/slider.php:12
+msgid "Add New Slide"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:13
+msgid "Edit Slide"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:14
+msgid "New Slide"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:15
+msgid "View Slide"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:16
+msgid "Search Slide"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:17
+msgid "No Slider found"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:18
+msgid "No Slider found in Trash"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:20
+msgid "All Sliders"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:42
+#: ../framework/custom-post/slider.php:52
+msgid "Slider Categories"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:43
+msgid "Sliders"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:44
+msgid "Search Slider"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:45
+msgid "All Slider"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:46
+msgid "Parent Slider"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:47
+msgid "Parent Slider:"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:48
+msgid "Edit Slider"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:49
+msgid "Update Sliders"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:50
+msgid "Add Slider Category"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:51
+msgid "New Slider "
+msgstr ""
+
+#: ../framework/custom-post/slider.php:62
+#: ../framework/custom-post/testimonial.php:63
+msgid "Author"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:63 ../musicband/albums/album.php:101
+#: ../musicband/artists/artist.php:78 ../musicband/djmix/djmix.php:73
+#: ../musicband/gallery/gallery.php:74 ../musicband/video/video.php:71
+msgid "Thumbnails"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:65
+#: ../framework/custom-post/testimonial.php:66
+#: ../musicband/albums/album.php:102 ../musicband/artists/artist.php:80
+#: ../musicband/djmix/djmix.php:76 ../musicband/events/events.php:70
+msgid "Date"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:6
+#: ../framework/custom-post/testimonial.php:7
+#: ../framework/custom-post/testimonial.php:39
+msgid "Testimonials"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:8
+#: ../framework/custom-post/testimonial.php:9
+msgid "Add Testimonial"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:10
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:11
+#: ../musicband/albums/album.php:18 ../musicband/djmix/djmix.php:17
+#: ../musicband/gallery/gallery.php:15 ../musicband/video/video.php:14
+msgid "New Item"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:12
+msgid "View Testimonial Item"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:13
+msgid "Search Testimonial Item"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:14
+#: ../musicband/albums/album.php:21 ../musicband/artists/artist.php:20
+#: ../musicband/djmix/djmix.php:20 ../musicband/events/events.php:14
+#: ../musicband/gallery/gallery.php:18 ../musicband/video/video.php:17
+msgid "Nothing found"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:15
+#: ../musicband/albums/album.php:22 ../musicband/artists/artist.php:21
+#: ../musicband/djmix/djmix.php:21 ../musicband/events/events.php:15
+#: ../musicband/gallery/gallery.php:19 ../musicband/video/video.php:18
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:17
+#: ../framework/custom-post/testimonial.php:41
+msgid "All Testimonials"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:38
+#: ../framework/custom-post/testimonial.php:48
+msgid "Testimonial Categories"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:40
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:42
+msgid "Parent Testimonials"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:43
+msgid "Parent Testimonials:"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:44
+msgid "Edit Testimonials"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:45
+msgid "Update Testimonials"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:46
+msgid "Add Testimonial Category"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:47
+msgid "New Testimonials "
+msgstr ""
+
+#: ../framework/includes/class-activation.php:88
+#: ../framework/includes/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/includes/class-activation.php:89
+#: ../framework/includes/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/includes/class-activation.php:90
+#: ../framework/includes/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/includes/class-activation.php:91
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../framework/includes/class-activation.php:102
+#: ../framework/includes/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/includes/class-activation.php:103
+#: ../framework/includes/class-tgm-plugin-activation.php:171
+#: ../framework/includes/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/includes/class-activation.php:104
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1294
+#: ../musicband/events/events-meta.php:58
+msgid "Status"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1950
+#: ../framework/includes/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1950
+#: ../framework/includes/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/includes/submitform.php:42
+msgid "Your message was successfully sent."
+msgstr ""
+
+#: ../framework/shortcode/music_event.php:67
+#: ../framework/shortcode/music_event.php:114
+#: ../framework/shortcode/music_event.php:152
+#: ../framework/widgets/events.php:70 ../framework/widgets/events.php:99
+msgid "No Events are currently listed"
+msgstr ""
+
+#: ../framework/widgets/contactinfo.php:23
+#: ../framework/widgets/music_video.php:23
+msgid "Add Contact Info to your widget  ."
+msgstr ""
+
+#: ../framework/widgets/contactinfo.php:121
+msgid "Website Url"
+msgstr ""
+
+#: ../framework/widgets/events.php:23
+msgid "Events widget for sidebar."
+msgstr ""
+
+#: ../framework/widgets/events.php:214 ../framework/widgets/flickr.php:73
+#: ../framework/widgets/music_album.php:144
+#: ../framework/widgets/popularpost.php:122
+#: ../framework/widgets/recentpost.php:119
+#: ../framework/widgets/sociable.php:71
+#: ../framework/widgets/testimonial.php:124
+#: ../framework/widgets/testimonials_submit.php:74
+msgid "Title:"
+msgstr ""
+
+#: ../framework/widgets/events.php:216
+msgid "Limits:"
+msgstr ""
+
+#: ../framework/widgets/events.php:218
+msgid "Events Order:"
+msgstr ""
+
+#: ../framework/widgets/flickr.php:23
+msgid "Use this widget to display your flickr gallery."
+msgstr ""
+
+#: ../framework/widgets/flickr.php:77
+msgid ""
+"Flickr ID: <small>Find your ID from <a href=\"http://idgettr.com\" target="
+"\"_blank\">idGettr</a></small>"
+msgstr ""
+
+#: ../framework/widgets/flickr.php:81
+msgid "How many photos you would like to display?:"
+msgstr ""
+
+#: ../framework/widgets/music_album.php:13
+msgid "Audio Widget"
+msgstr ""
+
+#: ../framework/widgets/music_album.php:129 ../single.php:83
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: ../framework/widgets/music_album.php:147
+msgid "Post ID:"
+msgstr ""
+
+#: ../framework/widgets/music_artist.php:23
+#: ../framework/widgets/music_gallery_photos.php:23
+msgid "Add Gallery Info to your widget  ."
+msgstr ""
+
+#: ../framework/widgets/music_artist.php:114
+#: ../framework/widgets/music_gallery_photos.php:117
+#: ../framework/widgets/music_gallery_post.php:122
+#: ../framework/widgets/music_video.php:119
+msgid "Post ID"
+msgstr ""
+
+#: ../framework/widgets/music_gallery_photos.php:121
+msgid "Number Of Photos"
+msgstr ""
+
+#: ../framework/widgets/music_gallery_post.php:23
+msgid "Add Post Gallery to your widget  ."
+msgstr ""
+
+#: ../framework/widgets/popularpost.php:26
+msgid ""
+"Use this widget to display Popular Posts by tags, Thumbnail Enable/Disable."
+msgstr ""
+
+#: ../framework/widgets/popularpost.php:126
+msgid "Extra Information:"
+msgstr ""
+
+#: ../framework/widgets/popularpost.php:133
+msgid "Length of Description to show::"
+msgstr ""
+
+#: ../framework/widgets/popularpost.php:137
+#: ../framework/widgets/recentpost.php:122
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../framework/widgets/popularpost.php:141
+#: ../framework/widgets/recentpost.php:133
+msgid "Disable Post Thumbnail?"
+msgstr ""
+
+#: ../framework/widgets/recentpost.php:13
+msgid "The most recent posts on your site"
+msgstr ""
+
+#: ../framework/widgets/recentpost.php:14
+msgid "-Recent Posts"
+msgstr ""
+
+#: ../framework/widgets/recentpost.php:124
+msgid "Category Id:"
+msgstr ""
+
+#: ../framework/widgets/recentpost.php:129
+msgid "Length of Description to show:"
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:10
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:33
+msgid "Select only one widget which will appear on your Footer column1"
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:43
+msgid "Select only one widget which will appear on your Footer column2"
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:53
+msgid "Select only one widget which will appear on your Footer column3"
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:63
+msgid "Select only one widget which will appear on your Footer column4"
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:73
+msgid "Select only one widget which will appear on your Footer column5"
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:83
+msgid "Select only one widget which will appear on your Footer column6"
+msgstr ""
+
+#: ../framework/widgets/sociable.php:23
+msgid "Sociable widget for sidebar."
+msgstr ""
+
+#: ../framework/widgets/sociable.php:73
+msgid "Color:"
+msgstr ""
+
+#: ../framework/widgets/testimonial.php:126
+msgid "Category:"
+msgstr ""
+
+#: ../framework/widgets/testimonial.php:139
+msgid "limits:"
+msgstr ""
+
+#: ../framework/widgets/testimonial.php:141
+msgid "Limits"
+msgstr ""
+
+#: ../framework/widgets/testimonials_submit.php:9
+msgid "Testimonials submission"
+msgstr ""
+
+#: ../framework/widgets/testimonials_submit.php:11
+msgid "-Testimonials submission"
+msgstr ""
+
+#: ../framework/widgets/testimonials_submit.php:44
+msgid "Websitename"
+msgstr ""
+
+#: ../framework/widgets/testimonials_submit.php:46
+msgid "WebsiteUrl"
+msgstr ""
+
+#: ../framework/widgets/testimonials_submit.php:76
+msgid "Thank you Message:"
+msgstr ""
+
+#: ../framework/widgets/twitter.php:24
+msgid "Use this widget to display the latest tweet from twitter"
+msgstr ""
+
+#: ../framework/widgets/twitter.php:86
+msgid "Twitter Title:"
+msgstr ""
+
+#: ../framework/widgets/twitter.php:90
+msgid "Twitter Username:"
+msgstr ""
+
+#: ../framework/widgets/twitter.php:94
+msgid "Twitter Limits:"
+msgstr ""
+
+#: ../functions.php:168
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:506
+msgid "Buy Link"
+msgstr ""
+
+#: ../functions.php:509
+msgid "Enter the buy link for this song if you wish."
+msgstr ""
+
+#: ../functions.php:512 ../musicband/djmix/djmix-meta.php:120
+msgid "Download Link"
+msgstr ""
+
+#: ../functions.php:515
+msgid "Enter the download link for this song if you wish."
+msgstr ""
+
+#: ../header.php:36
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../musicband/albums/album.php:13 ../musicband/albums/album.php:14
+#: ../musicband/search_albumartisttracks.php:443
+msgid "Albums"
+msgstr ""
+
+#: ../musicband/albums/album.php:15 ../musicband/albums/album.php:16
+msgid "Add New Album"
+msgstr ""
+
+#: ../musicband/albums/album.php:17
+msgid "Edit Album"
+msgstr ""
+
+#: ../musicband/albums/album.php:19
+msgid "View Album Item"
+msgstr ""
+
+#: ../musicband/albums/album.php:20
+msgid "Search Album Item"
+msgstr ""
+
+#: ../musicband/albums/album.php:24
+msgid "All Albums"
+msgstr ""
+
+#: ../musicband/albums/album.php:50 ../musicband/albums/album.php:51
+#: ../musicband/albums/album.php:59
+msgid "Album Genres"
+msgstr ""
+
+#: ../musicband/albums/album.php:52
+msgid "Search Albums Dates"
+msgstr ""
+
+#: ../musicband/albums/album.php:53
+msgid "Parent Albums "
+msgstr ""
+
+#: ../musicband/albums/album.php:54
+msgid "Parent Albums :"
+msgstr ""
+
+#: ../musicband/albums/album.php:55
+msgid "Edit Albums "
+msgstr ""
+
+#: ../musicband/albums/album.php:56
+msgid "Update Album Genres"
+msgstr ""
+
+#: ../musicband/albums/album.php:57
+msgid "Add Album Genres"
+msgstr ""
+
+#: ../musicband/albums/album.php:58
+msgid "New Album Dates "
+msgstr ""
+
+#: ../musicband/albums/album.php:74 ../musicband/albums/album.php:75
+#: ../musicband/albums/album.php:83
+msgid "Album Labels"
+msgstr ""
+
+#: ../musicband/albums/album.php:76
+msgid "Search Labels Dates"
+msgstr ""
+
+#: ../musicband/albums/album.php:77
+msgid "Parent Labels "
+msgstr ""
+
+#: ../musicband/albums/album.php:78
+msgid "Parent Labels :"
+msgstr ""
+
+#: ../musicband/albums/album.php:79
+msgid "Edit Labels "
+msgstr ""
+
+#: ../musicband/albums/album.php:80
+msgid "Update Albums Label"
+msgstr ""
+
+#: ../musicband/albums/album.php:81
+msgid "Add Album Labels"
+msgstr ""
+
+#: ../musicband/albums/album.php:82
+msgid "New Labels Dates "
+msgstr ""
+
+#: ../musicband/albums/album.php:98 ../musicband/albums/allbum-meta.php:90
+#: ../musicband/djmix/djmix-meta.php:77
+msgid "Release Date"
+msgstr ""
+
+#: ../musicband/albums/album.php:100 ../musicband/artists/artist.php:79
+#: ../musicband/djmix/djmix.php:74 ../musicband/gallery/gallery.php:73
+#: ../musicband/video/video.php:72
+msgid "ID's"
+msgstr ""
+
+#: ../musicband/albums/allbum-meta.php:15 ../musicband/djmix/djmix-meta.php:14
+msgid "Audio Type"
+msgstr ""
+
+#: ../musicband/albums/allbum-meta.php:29
+msgid "MUSIC PLAYER"
+msgstr ""
+
+#: ../musicband/albums/allbum-meta.php:40
+msgid "SOUNDCLOUD TITLE"
+msgstr ""
+
+#: ../musicband/albums/allbum-meta.php:49
+msgid "External MP3"
+msgstr ""
+
+#: ../musicband/albums/allbum-meta.php:59 ../musicband/djmix/djmix-meta.php:38
+msgid "SOUNDCLOUD"
+msgstr ""
+
+#: ../musicband/albums/allbum-meta.php:79
+msgid "Artist Name"
+msgstr ""
+
+#: ../musicband/albums/allbum-meta.php:99
+msgid "Catalog ID"
+msgstr ""
+
+#: ../musicband/albums/allbum-meta.php:107
+#: ../musicband/events/events-meta.php:77
+msgid "Add buttons"
+msgstr ""
+
+#: ../musicband/albums/allbum-meta.php:116
+#: ../musicband/events/events-meta.php:86
+msgid "Disable"
+msgstr ""
+
+#: ../musicband/albums/audio-genres.php:3
+msgid "More Albums From This Genres:"
+msgstr ""
+
+#: ../musicband/albums/audio-label.php:3
+msgid "More Albums From This Label:"
+msgstr ""
+
+#: ../musicband/albums/single-albums.php:285
+#: ../musicband/artists/single-artists.php:123
+#: ../musicband/djmix/single-djmix.php:115
+#: ../musicband/events/single-events.php:162
+#: ../musicband/gallery/single-gallery.php:145
+#: ../musicband/video/single-video.php:85
+msgid "Sorry, no projects matched your criteria."
+msgstr ""
+
+#: ../musicband/artists/artist-meta.php:15
+msgid "Nick Name"
+msgstr ""
+
+#: ../musicband/artists/artist-meta.php:24
+msgid "Born Date"
+msgstr ""
+
+#: ../musicband/artists/artist-meta.php:33
+msgid "Place of born"
+msgstr ""
+
+#: ../musicband/artists/artist-meta.php:51
+msgid "Year Active"
+msgstr ""
+
+#: ../musicband/artists/artist-meta.php:69
+msgid "Sociable"
+msgstr ""
+
+#: ../musicband/artists/artist-meta.php:70
+msgid ""
+"Custom Sociables for this doctor. Enter the social networking url(s) each in "
+"a separated lines for example http://facebook.com/username/"
+msgstr ""
+
+#: ../musicband/artists/artist-related.php:47
+msgid "More Artist From:"
+msgstr ""
+
+#: ../musicband/artists/artist.php:11
+msgid "ALL Artist"
+msgstr ""
+
+#: ../musicband/artists/artist.php:12 ../musicband/artists/artist.php:13
+msgid "Add New Artist"
+msgstr ""
+
+#: ../musicband/artists/artist.php:14 ../musicband/artists/artist.php:15
+msgid "Edit Artist"
+msgstr ""
+
+#: ../musicband/artists/artist.php:16
+msgid "New Artist"
+msgstr ""
+
+#: ../musicband/artists/artist.php:17 ../musicband/artists/artist.php:18
+msgid "View Artist"
+msgstr ""
+
+#: ../musicband/artists/artist.php:19 ../musicband/artists/artist.php:52
+msgid "Search Artists"
+msgstr ""
+
+#: ../musicband/artists/artist.php:23
+msgid "All Artists"
+msgstr ""
+
+#: ../musicband/artists/artist.php:50
+msgid "Artists Category"
+msgstr ""
+
+#: ../musicband/artists/artist.php:51
+#: ../musicband/search_albumartisttracks.php:541
+msgid "Artists"
+msgstr ""
+
+#: ../musicband/artists/artist.php:53
+msgid "Parent Artists "
+msgstr ""
+
+#: ../musicband/artists/artist.php:54
+msgid "Parent Artists :"
+msgstr ""
+
+#: ../musicband/artists/artist.php:55
+msgid "Edit Artists "
+msgstr ""
+
+#: ../musicband/artists/artist.php:56
+msgid "Update Artists"
+msgstr ""
+
+#: ../musicband/artists/artist.php:57
+msgid "Add Artists"
+msgstr ""
+
+#: ../musicband/artists/artist.php:58
+msgid "New Artists"
+msgstr ""
+
+#: ../musicband/artists/artist.php:59
+msgid "Artist categories"
+msgstr ""
+
+#: ../musicband/artists/artists-albums.php:18
+msgid "More albums from:"
+msgstr ""
+
+#: ../musicband/djmix/djmix-meta.php:27
+msgid "upload mix"
+msgstr ""
+
+#: ../musicband/djmix/djmix-meta.php:48
+msgid "External Mp3"
+msgstr ""
+
+#: ../musicband/djmix/djmix-meta.php:57
+msgid "External Mp3 Title"
+msgstr ""
+
+#: ../musicband/djmix/djmix-meta.php:86
+msgid "Genre"
+msgstr ""
+
+#: ../musicband/djmix/djmix-meta.php:94
+msgid "Buy Mix"
+msgstr ""
+
+#: ../musicband/djmix/djmix-meta.php:103
+msgid "Buy Mix url"
+msgstr ""
+
+#: ../musicband/djmix/djmix-meta.php:111
+msgid "Download Link Title"
+msgstr ""
+
+#: ../musicband/djmix/djmix.php:12
+msgid "DJMix"
+msgstr ""
+
+#: ../musicband/djmix/djmix.php:13
+msgid "ALL DJMix"
+msgstr ""
+
+#: ../musicband/djmix/djmix.php:14 ../musicband/djmix/djmix.php:15
+msgid "Add New DJMix"
+msgstr ""
+
+#: ../musicband/djmix/djmix.php:16
+msgid "Edit Djmix"
+msgstr ""
+
+#: ../musicband/djmix/djmix.php:18
+msgid "View  Item"
+msgstr ""
+
+#: ../musicband/djmix/djmix.php:19
+msgid "Search  Item"
+msgstr ""
+
+#: ../musicband/djmix/djmix.php:46 ../musicband/djmix/djmix.php:47
+#: ../musicband/djmix/djmix.php:55
+msgid "Djmix Categories"
+msgstr ""
+
+#: ../musicband/djmix/djmix.php:48
+msgid "Search Djmix"
+msgstr ""
+
+#: ../musicband/djmix/djmix.php:49
+msgid "Parent Djmix "
+msgstr ""
+
+#: ../musicband/djmix/djmix.php:50
+msgid "Parent Djmix :"
+msgstr ""
+
+#: ../musicband/djmix/djmix.php:51
+msgid "Edit Djmix "
+msgstr ""
+
+#: ../musicband/djmix/djmix.php:52
+msgid "Update Djmix"
+msgstr ""
+
+#: ../musicband/djmix/djmix.php:53
+msgid "Add Djmix"
+msgstr ""
+
+#: ../musicband/djmix/djmix.php:54
+msgid "New Djmix"
+msgstr ""
+
+#: ../musicband/events/events-meta.php:15
+msgid "Events Date"
+msgstr ""
+
+#: ../musicband/events/events-meta.php:24
+msgid "Event Time"
+msgstr ""
+
+#: ../musicband/events/events-meta.php:33
+msgid "Event Venue"
+msgstr ""
+
+#: ../musicband/events/events-meta.php:41
+msgid "Event Location"
+msgstr ""
+
+#: ../musicband/events/events-meta.php:49
+msgid "Map Location"
+msgstr ""
+
+#: ../musicband/events/events-meta.php:69
+msgid "Add New Meta"
+msgstr ""
+
+#: ../musicband/events/events.php:8 ../musicband/events/events.php:9
+msgid "Add New Event"
+msgstr ""
+
+#: ../musicband/events/events.php:10
+msgid "Edit Event"
+msgstr ""
+
+#: ../musicband/events/events.php:11 ../musicband/events/events.php:49
+msgid "New Event"
+msgstr ""
+
+#: ../musicband/events/events.php:12
+msgid "View Event"
+msgstr ""
+
+#: ../musicband/events/events.php:13 ../musicband/events/events.php:42
+msgid "Search Events"
+msgstr ""
+
+#: ../musicband/events/events.php:17 ../musicband/events/events.php:43
+msgid "All Events"
+msgstr ""
+
+#: ../musicband/events/events.php:40 ../musicband/events/events.php:50
+msgid "Event Categories"
+msgstr ""
+
+#: ../musicband/events/events.php:44
+msgid "Parent Location"
+msgstr ""
+
+#: ../musicband/events/events.php:45
+msgid "Parent Events:"
+msgstr ""
+
+#: ../musicband/events/events.php:46
+msgid "Edit Events"
+msgstr ""
+
+#: ../musicband/events/events.php:47
+msgid "Update Events"
+msgstr ""
+
+#: ../musicband/events/events.php:48
+msgid "Add Event Category"
+msgstr ""
+
+#: ../musicband/events/events.php:66
+msgid "Event Date"
+msgstr ""
+
+#: ../musicband/events/events.php:68
+msgid "Location"
+msgstr ""
+
+#: ../musicband/events/events.php:69 ../musicband/gallery/gallery-meta.php:34
+#: ../musicband/gallery/gallery.php:71 ../musicband/video/video-meta.php:55
+#: ../musicband/video/video.php:69
+msgid "Venue"
+msgstr ""
+
+#: ../musicband/gallery/gallery-meta.php:13
+msgid "Gallery upload"
+msgstr ""
+
+#: ../musicband/gallery/gallery.php:11
+msgid "ALL Gallery"
+msgstr ""
+
+#: ../musicband/gallery/gallery.php:12 ../musicband/gallery/gallery.php:13
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../musicband/gallery/gallery.php:14 ../musicband/gallery/gallery.php:52
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../musicband/gallery/gallery.php:16
+msgid "View Gallery Item"
+msgstr ""
+
+#: ../musicband/gallery/gallery.php:17
+msgid "Search Gallery Item"
+msgstr ""
+
+#: ../musicband/gallery/gallery.php:21
+msgid "All Galleries"
+msgstr ""
+
+#: ../musicband/gallery/gallery.php:47 ../musicband/gallery/gallery.php:48
+#: ../musicband/gallery/gallery.php:56
+msgid "Gallery Categories"
+msgstr ""
+
+#: ../musicband/gallery/gallery.php:49
+msgid "Search Gallery"
+msgstr ""
+
+#: ../musicband/gallery/gallery.php:50
+msgid "Parent Gallery"
+msgstr ""
+
+#: ../musicband/gallery/gallery.php:51
+msgid "Parent Gallery:"
+msgstr ""
+
+#: ../musicband/gallery/gallery.php:53
+msgid "Update Gallery Category"
+msgstr ""
+
+#: ../musicband/gallery/gallery.php:54
+msgid "Add Gallery Category"
+msgstr ""
+
+#: ../musicband/gallery/gallery.php:55
+msgid "New Gallery "
+msgstr ""
+
+#: ../musicband/gallery/single-gallery.php:72 ../template_sitemap.php:27
+msgid "Pages"
+msgstr ""
+
+#: ../musicband/index.php:500
+msgid ""
+"Select time format which appears at the admin events meta and front page"
+msgstr ""
+
+#: ../musicband/search_albumartisttracks.php:118
+#: ../musicband/search_albumartisttracks.php:214
+msgid "Title Label"
+msgstr ""
+
+#: ../musicband/search_albumartisttracks.php:377
+#: ../musicband/search_albumartisttracks.php:381
+msgid "Tracks"
+msgstr ""
+
+#: ../musicband/search_albumartisttracks.php:607
+msgid "No Results Found"
+msgstr ""
+
+#: ../musicband/video/video-meta.php:15
+msgid "Video Type"
+msgstr ""
+
+#: ../musicband/video/video-meta.php:28
+msgid "YouTube"
+msgstr ""
+
+#: ../musicband/video/video-meta.php:46
+msgid "Selfhost Video"
+msgstr ""
+
+#: ../musicband/video/video.php:10
+msgid "ALL Video"
+msgstr ""
+
+#: ../musicband/video/video.php:11 ../musicband/video/video.php:12
+msgid "Add New Video"
+msgstr ""
+
+#: ../musicband/video/video.php:13
+msgid "Edit Video"
+msgstr ""
+
+#: ../musicband/video/video.php:15
+msgid "View Video Item"
+msgstr ""
+
+#: ../musicband/video/video.php:16
+msgid "Search Video Item"
+msgstr ""
+
+#: ../musicband/video/video.php:20
+msgid "All Videos"
+msgstr ""
+
+#: ../musicband/video/video.php:43 ../musicband/video/video.php:44
+msgid "Video  Category"
+msgstr ""
+
+#: ../musicband/video/video.php:45
+msgid "Search Video Dates"
+msgstr ""
+
+#: ../musicband/video/video.php:46
+msgid "Parent Video Dates"
+msgstr ""
+
+#: ../musicband/video/video.php:47
+msgid "Parent Video Dates:"
+msgstr ""
+
+#: ../musicband/video/video.php:48
+msgid "Edit Video Dates"
+msgstr ""
+
+#: ../musicband/video/video.php:49
+msgid "Update Video Dates Category"
+msgstr ""
+
+#: ../musicband/video/video.php:50
+msgid "Add Video Category"
+msgstr ""
+
+#: ../musicband/video/video.php:51
+msgid "New Video Dates "
+msgstr ""
+
+#: ../page.php:16 ../template_subpage.php:28
+msgid "Pages:"
+msgstr ""
+
+#: ../searchform.php:7
+msgid "To search type and hit enter"
+msgstr ""
+
+#: ../single.php:42
+msgid "<strong>Tags</strong>"
+msgstr ""
+
+#: ../template_sitemap.php:32
+msgid "Feeds"
+msgstr ""
+
+#: ../template_sitemap.php:34
+msgid "Main RSS"
+msgstr ""
+
+#: ../template_sitemap.php:35
+msgid "Comment Feed"
+msgstr ""
+
+#: ../template_sitemap.php:45
+msgid "Archives"
+msgstr ""
