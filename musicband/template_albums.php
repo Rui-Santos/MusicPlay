@@ -41,15 +41,19 @@ get_header(); ?>
 			}else{
 				$audio_limit	= '-1' ;
 			}
+			if($orderby == 'audio_release_date'){
+				$meta_key = 'audio_release_date';
+			}else{
+				$meta_key = "";
+			}
 			$args = array(
-					'post_type' 	 => 'albums',
-					'posts_per_page' => $audio_limit, 
-					'paged' 		 => $paged,
-					'orderby'		 =>	$orderby,
-					'order'			 =>	$order
-				);
-		
-			
+				'post_type'   => 'albums',
+				'posts_per_page' => $audio_limit, 
+				'paged'    => $paged,
+				'orderby'   => $orderby,
+				'meta_key'    => $meta_key,
+	 			'order'    => $order
+			);			
 				$wp_query = new WP_Query( $args );
 
 				if ( $wp_query->have_posts()) : while (  $wp_query->have_posts()) :  $wp_query->the_post(); 
